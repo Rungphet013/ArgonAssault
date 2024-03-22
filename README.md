@@ -1,3 +1,3 @@
 # ArgonAssault
  MAP
-<img src=/Map.png>
+<img src=/Map2.png>
